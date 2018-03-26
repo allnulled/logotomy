@@ -1,0 +1,31 @@
+{
+  "name": "logotomy",
+  "version": "1.0.0",
+  "description": "Logotomy is a very simple natural language parser.",
+  "main": "src/logotomy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/logotomy-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/logotomy.git"
+  },
+  "keywords": [
+    "logotomy",
+    "natural",
+    "language",
+    "parser"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allnulled/logotomy/issues"
+  },
+  "homepage": "https://github.com/allnulled/logotomy#readme",
+  "dependencies": {
+    "deep-getter-setter": "^1.0.3"
+  }
+}
